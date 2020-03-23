@@ -1,0 +1,94 @@
+html{
+     font-family: 'Lobster', cursive;
+
+}
+
+h1, font{
+   color: red;
+
+}
+
+header{
+       border-style: solid;
+       border-color: black;
+       border-width: 1px;   
+       border-radius: 8px;
+       position: relative;
+       /*padding-bottom: 15px; 
+       margin-bottom: 15px;*/
+       background-color: #C1DAE6; 
+       overflow: auto;
+}
+
+
+
+input[type="button"]{
+					background-color: #C1DAE6;
+					border-style: solid;
+					border-width: 1px; 
+					border-color: gray;
+					border-radius: 15px;
+					text-align: justify;
+					overflow: auto;
+					font-size: 18px;
+					margin-top: 7px;
+} 
+
+
+
+input[name="ModifierScenario"]{
+                               background-color: #C1DAE6;
+							   border-style: solid;
+							   border-width: 1px; 
+							   border-color: gray;
+							   border-radius: 15px;
+							   text-align: justify;
+							   overflow: auto;
+							   font-size: 18px;
+							   margin-top: 7px;
+							   margin-right: 20px;    
+
+}
+
+
+
+
+input[name="TelechargerScenario"]{
+                                  margin-right: 20px;
+                               
+}
+
+
+input[name="deconnexion"]{
+                         background-color: #C1DAE6;
+     				     border-style: solid;
+						 border-width: 1px; 
+						 border-color: gray;
+						 border-radius: 15px;
+						 text-align: justify;
+						 overflow: auto;
+						 font-size: 18px;
+						 margin-top: 7px;
+						 margin-right: 20px;          
+
+}
+
+
+table, tr, td   {
+     border-style: solid;
+     border-width: 1px;	 
+     border-color: black;
+     overflow: auto;
+     text-align: center; 
+     
+}
+
+
+
+
+
+
+
+
+
+
